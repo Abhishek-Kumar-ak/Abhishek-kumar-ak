@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/84341752/168604137-81f4bb3e-eed5-45e0-85a7-12a1928c66e9.svg" width="40">
 <img src="https://user-images.githubusercontent.com/84341752/168603818-4e970757-710e-4cae-a5ef-44343012d8e7.svg" width="40">
 <img src="https://user-images.githubusercontent.com/84341752/168604023-b944c6eb-0659-4640-b67d-8170f855de79.svg" width="40">
-<img src="https://user-images.githubusercontent.com/84341752/168604036-ac360ed4-bf8c-450b-8eac-db64a9f59811.svg" width="40">
+
 
 <img src="https://user-images.githubusercontent.com/84341752/168604055-ec250d89-7be9-4e8f-8d80-9e5675646f2f.svg" width="40">
 
