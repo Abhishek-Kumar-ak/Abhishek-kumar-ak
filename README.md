@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on slack clone
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects related to full stack
-- 💬 Ask me about Node js, React js, Redux, Mongo db
+- 💬 Ask me about Node.js, React.js, Redux, MongoDB
 - 📫 How to reach me: abhi009ak@gmail.com
 - 😄 Pronouns: Mano
 
